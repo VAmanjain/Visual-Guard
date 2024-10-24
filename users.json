@@ -20,15 +20,6 @@
         "year": 7
     },
     {
-        "name": "Mummy",
-        "age": 40,
-        "image_path": "C:/Users/AMAN/Downloads/WhatsApp Image 2024-10-24 at 07.42.20_85398c0d.jpg",
-        "role": "Staff",
-        "department": "Administration",
-        "email": "mummy@example.com",
-        "phone": "+1122334455"
-    },
-    {
         "name": "Ankit",
         "age": 40,
         "image_path": "C:/Users/AMAN/Downloads/WhatsApp Image 2024-10-24 at 10.10.05_46e07906.jpg",
@@ -47,15 +38,7 @@
         "phone": null
     }
     ,
-    {
-        "name": "Gauri",
-        "age": 40,
-        "image_path": "C:/Users/AMAN/Downloads/WhatsApp Image 2024-10-24 at 10.48.04_da9f1aa2.jpg",
-        "role": null,
-        "email": null,
-        "phone": null
-    }
-    ,
+  
     {
         "name": "Sarthak",
         "age": 40,
@@ -64,4 +47,23 @@
         "email": null,
         "phone": null
     }
+    ,
+    {
+        "name": "Lavina Sevani",
+        "age": 20,
+        "image_path": "C:/Users/AMAN/Downloads/WhatsApp Image 2024-10-24 at 16.29.49_d40c321d.jpg",
+        "role": "Student",
+        "email": "lavina@gmail.com",
+        "phone": "861948173489"
+    }
+    ,
+    {
+        "name": "Gauri",
+        "age": 40,
+        "image_path": "C:/Users/AMAN/Downloads/WhatsApp Image 2024-10-24 at 10.48.04_da9f1aa2.jpg",
+        "role": null,
+        "email": null,
+        "phone": null
+    }
+    
 ]
